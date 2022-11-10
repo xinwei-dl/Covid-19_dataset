@@ -6,7 +6,7 @@
 * The spatial resolution of this dataset is at the county level, for time resolution, it is as fined as possible.  
   
   
-==============================discribution of each dataset:)  
+==============================description of each dataset:)  
 **1. cases deaths population**  
 Collected from USAFACTS https://usafacts.org/visualizations/coronavirus-covid-19-spread-map  
 Spatial resolution: county level, Temporal resolution: daily level, covers 3193 counties in 50 states and DC from Jan 22, 2020 to Nov 3, 2022.  
