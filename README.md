@@ -50,7 +50,7 @@ Spatial resolution: county level, Temporal resolution: daily level, covers about
 We have modified the raw dataset to separate each variable for each year into a csv file.  
 And we also changed the dimensionality of the data so that the column is data and the row is county.  
   
-**6. geographic**
+**6. geographic**  
 This dataset contains the geographic location and adjacency relation between each county.  
 The raw data is from GMAD https://gadm.org/download_country.html  
 It is processed with ArcGIS, using which to extracted the latitude and longitude of each county, and to calculated the adjacency relation between each other.
