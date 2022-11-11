@@ -53,4 +53,5 @@ And we also changed the dimensionality of the data so that the column is data an
 **6. geographic**  
 This dataset contains the geographic location and adjacency relation between each county.  
 The raw data is from GMAD https://gadm.org/download_country.html  
-It is processed with ArcGIS, using which to extracted the latitude and longitude of each county, and to calculated the adjacency relation between each other.
+It is processed with ArcGIS, using which to extracted the latitude and longitude of each county, and to calculated the adjacency relation between each other.  
+In this file, there are two csv discrive the neighbor relationship, one shows what neighboring counties each county has, the other is a adjacent matrix.
