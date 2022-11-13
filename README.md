@@ -55,3 +55,7 @@ This dataset contains the geographic location and adjacency relation between eac
 The raw data is from GMAD https://gadm.org/download_country.html  
 It is processed with ArcGIS, using which to extracted the latitude and longitude of each county, and to calculated the adjacency relation between each other.  
 In this file, there are two csv discrive the neighbor relationship, one shows what neighboring counties each county has, the other is a adjacent matrix.
+  
+**7. economy**  
+Collected from BEA https://www.bea.gov/, this dataset provides information about GDP and personal income, which are all collected in 2020.  
+The dataset contains 3112 counties in 50 states and DC.
