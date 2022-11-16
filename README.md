@@ -59,3 +59,9 @@ In this file, there are two csv discrive the neighbor relationship, one shows wh
 **7. economy**  
 Collected from BEA https://www.bea.gov/, this dataset provides information about GDP and personal income, which are all collected in 2020.  
 The dataset contains 3112 counties in 50 states and DC.
+  
+**8. facilities**
+Beds in Nursing Home and Urgent Care Facilities
+Collected from HIFLD https://hifld-geoplatform.opendata.arcgis.com/  
+The website provides the information about each nurching home and urgent care facility, and we've aggregated the totals for each county.  
+The urgent care facilities dataset is uploaded in 2018, and the nursing home dataset is uploaded in 2022.
